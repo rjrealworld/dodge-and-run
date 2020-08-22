@@ -24,3 +24,7 @@
   - Pause Menu
   
   ![](https://github.com/rjrealworld/dodge-and-run/blob/master/screenshot/6.PNG?raw=true)
+
+  - Death Menu
+  
+  ![](https://github.com/rjrealworld/dodge-and-run/blob/master/screenshot/7.PNG?raw=true)
