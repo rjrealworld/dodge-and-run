@@ -28,3 +28,7 @@
   - Death Menu
   
   ![](https://github.com/rjrealworld/dodge-and-run/blob/master/screenshot/7.PNG?raw=true)
+  
+* Download the apk and enjoy the game
+
+https://drive.google.com/file/d/1OZjmo2yGd6F6VjMDsXf2CVzC1l0Kx3d2/view?usp=sharing
